@@ -1,7 +1,6 @@
-Name: Ahmad Moussa
-ID: 40048101
-Assignment 2
+Author: Ahmad Moussa
 
+How it works:
 1 - Upon running the program a window will open waiting for user clicks inside the window
 
 2 - clicking on the window generates points in 3D space, note that the points can be rotated by pressing the arrow keys, and the user can switch between rendering lines and points by pressing the 'L' and 'P' buttons respectively.
